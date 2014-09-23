@@ -1,5 +1,8 @@
 # JSONKit
 
+# FORK NOTES:
+minor updates to handle deprecations
+
 JSONKit is dual licensed under either the terms of the BSD License, or alternatively under the terms of the Apache License, Version 2.0.<br />
 Copyright &copy; 2011, John Engelhart.
 
